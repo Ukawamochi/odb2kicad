@@ -1,0 +1,7 @@
+__pycache__/
+*.kicad_pcb
+*.kicad_pro
+*.kicad_prl
+*.png
+*.tgz
+*.gbr
